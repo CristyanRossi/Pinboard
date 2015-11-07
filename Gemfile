@@ -34,7 +34,8 @@ gem 'simple_form', '~> 3.2'
 gem 'devise', '~> 3.5', '>= 3.5.2'
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+# Easy upload management for ActiveRecord
+gem 'paperclip', '~> 4.3', '>= 4.3.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
