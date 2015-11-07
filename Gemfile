@@ -38,6 +38,8 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+#Masonry will rock your world!
+gem 'masonry-rails', '~> 0.2.4'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
