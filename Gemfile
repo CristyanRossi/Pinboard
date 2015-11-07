@@ -40,6 +40,8 @@ gem 'paperclip', '~> 4.3', '>= 4.3.1'
 # gem 'capistrano-rails', group: :development
 #Masonry will rock your world!
 gem 'masonry-rails', '~> 0.2.4'
+#Rails gem to allowing records to be votable
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
