@@ -30,7 +30,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 # Forms made easy!
 gem 'simple_form', '~> 3.2'
 # gem 'bcrypt', '~> 3.1.7'
-
+# Devise 
+gem 'devise', '~> 3.5', '>= 3.5.2'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
